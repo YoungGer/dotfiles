@@ -1,0 +1,11 @@
+remote connect:
+sshfs: sshfs remote@url:/remote /local
+samba: https://ubuntu.com/tutorials/install-and-configure-samba#1-overview
+
+cpp debug:
+gcc代码优化结合debugwithinfo: http://www.manongjc.com/detail/22-dijtjlhpaywdpms.html
+
+实用库:
+tldr
+fish
+tmux
